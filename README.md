@@ -11,5 +11,5 @@ Fast Folder
 
 
 ### Video
-[<video src='https://streamable.com/0mgve3' width=180/>
+[<video src='https://streamable.com/0mgve3'/>
 ](https://streamable.com/0mgve3)
